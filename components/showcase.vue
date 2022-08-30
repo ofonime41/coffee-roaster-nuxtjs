@@ -8,7 +8,7 @@
           <div class="">
             <h1 class="text-white font-extrabold mb-10 text-4xl md:text-7xl  ">Great coffee made simple.</h1>
             <p class="text-white leading-snug text-xl mb-10">Start your mornings with the world’s best coffees. Try our
-              expertly curated artisan coffees from ourn
+              expertly curated artisan coffees from our
               best roasters delivered directly to your door, at your schedule.</p>
 
 
@@ -28,12 +28,12 @@
       <div class=" max-w-4xl  mx-auto relative">
         <div class="featured  ">
           <h2
-          class="mb-1 text-4xl :text-7xl text-center  font-bold leading-loose text-gray-500 lg:absolute -top-14 left-40 tracking-wider">
+          class="mb-1 text-4xl lg:text-7xl text-center  font-bold leading-loose text-gray-500 lg:absolute -top-14 left-40 tracking-wider">
           Our Collection</h2>
         </div>
         <div class="collection  grid grid-cols-1 mt-16 md:grid-cols-2 lg:grid-cols-4 gap-x-10 lg:gap-x-16 gap-y-10 ">
           <div>
-            <img src="~/static/images/gran-espresso.png" alt="">
+            <img  src="~/static/images/gran-espresso.png" alt="">
 
 
             <h3 class="mt-4 mb-2 text-base text-center font-bold leading-tight text-gray-900 lg:text-lg">Gran Espresso
@@ -89,7 +89,7 @@
       </div>
       <div class="lg:flex  lg:absolute -bottom-40">
         <!-- card 1 -->
-        <div class="p-4 lg:w-1/3">
+        <div class="p-4 lg:w-1/3 ">
           <div class="
             flex
             rounded-lg
@@ -116,6 +116,7 @@
         <!-- card 2 -->
         <div class="p-4 lg:w-1/3">
           <div class="
+          shadow
             flex
             rounded-lg
             h-full
@@ -142,7 +143,7 @@
 
         <!-- card 3 -->
         <div class="p-4 lg:w-1/3">
-          <div class="
+          <div class="shadow
             flex
             rounded-lg
             h-full
