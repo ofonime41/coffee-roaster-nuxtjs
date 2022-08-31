@@ -1,5 +1,7 @@
 # coffee_roasters
 
+## check it out on https://coffee-roaster-app.netlify.app/
+
 ## Build Setup
 
 ```bash
