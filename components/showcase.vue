@@ -6,6 +6,7 @@
 
         <div class="lg:grid lg:grid-cols-2 gap-10">
           <div class="">
+            <!-- Checking things out -->
             <h1 class="text-white font-extrabold mb-10 text-4xl md:text-7xl  ">Great coffee made simple.</h1>
             <p class="text-white leading-snug text-xl mb-10">Start your mornings with the world’s best coffees. Try our
               expertly curated artisan coffees from our
@@ -27,8 +28,9 @@
     <section class="container px-10 md:px-20 pt-10 md:pb-20 bg-white">
       <div class=" max-w-4xl  mx-auto relative">
         <div class="featured  ">
+          <!-- gray text change -->
           <h2
-          class="mb-1 text-4xl lg:text-7xl text-center  font-bold leading-loose text-gray-500 lg:absolute -top-14 left-40 tracking-wider">
+          class="mb-1 text-4xl lg:text-7xl text-center  font-bold leading-loose text-gray-900 lg:absolute -top-14 left-40 tracking-wider">
           Our Collection</h2>
         </div>
         <div class="collection  grid grid-cols-1 mt-16 md:grid-cols-2 lg:grid-cols-4 gap-x-10 lg:gap-x-16 gap-y-10 ">
