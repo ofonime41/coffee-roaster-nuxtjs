@@ -28,7 +28,7 @@
       <div class=" max-w-4xl  mx-auto relative">
         <div class="featured  ">
           <h2
-          class="mb-1 text-4xl lg:text-7xl text-center  font-bold leading-loose text-gray-500 lg:absolute -top-14 left-40 tracking-wider">
+          class="mb-1 text-4xl lg:text-7xl text-center container mx-auto  font-bold leading-loose text-gray-900   lg:absolute -top-14  tracking-wider">
           Our Collection</h2>
         </div>
         <div class="collection  grid grid-cols-1 mt-16 md:grid-cols-2 lg:grid-cols-4 gap-x-10 lg:gap-x-16 gap-y-10 ">
